@@ -36,7 +36,6 @@
 ### Controller
 - Created **`HelloController`** to handle web traffic
 - Maps HTTP requests to methods
-- Returns responses as either plain text or HTML view
 
 ### View
 - Created **`greeting.html`** for the frontend
@@ -54,6 +53,6 @@
 ## How to Run
 1. Open the project in your IDE (e.g., IntelliJ IDEA)
 2. Run the **`FirstProjectJavaSpringApplication`** class
-3. Navigate to [http://localhost:8080/](http://localhost:8080/) in your browser
+3. Navigate to [http://localhost:8080/](http://localhost:8080/greeting/name=input) in your browser
 4. View the greeting message and HTML page with Vistula logo
 
