@@ -24,3 +24,7 @@
 `Input: name=Vistula`
 ![Localhost Greeting With Name Input](src/main/resources/static/pictures/img.png)
 
+--- 
+## `Input: name= My Name (Muzaffar)`
+![Localhost Greeting With Name Input](src/main/resources/static/pictures/img_1.png)
+
