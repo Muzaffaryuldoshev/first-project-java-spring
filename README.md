@@ -16,4 +16,4 @@
 - Returns a simple **text message** directly in the browser
 - No HTML templates used at this stage
 ---
-![Localhost Greeting](static/pictures/localHostGreeting.png)
+![Localhost Greeting](src/main/resources/static/pictures/localHostGreeting.png)
