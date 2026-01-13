@@ -16,4 +16,4 @@
 - Returns a simple **text message** directly in the browser
 - No HTML templates used at this stage
 ---
-![Spring Boot localhost greeting](static/pictures/localHostGreeting.png)
+(static/pictures/localHostGreeting.png)
