@@ -17,3 +17,10 @@
 - No HTML templates used at this stage
 ---
 ![Localhost Greeting](src/main/resources/static/pictures/localHostGreeting.png)
+---
+## Dynamic Greeting (Changing the Name)
+- I implemented a dynamic greeting at http://localhost:8080/greeting/name=input. 
+- By adding a name parameter to the URL, the application updates the view using Thymeleaf.
+`Input: name=Vistula`
+![Localhost Greeting With Name Input](src/main/resources/static/pictures/img.png)
+
